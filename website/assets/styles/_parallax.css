@@ -1,0 +1,9 @@
+.parallax {
+  background-image: url('../images/tulips.jpg')
+  fixed cover center no-repeat;
+  height:500px;
+  //  background-attachment: fixed;
+  //  background-size: cover;
+  //  background-position: center;
+  //  background-repeat: no-repeat;
+}
